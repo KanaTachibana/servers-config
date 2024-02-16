@@ -1,0 +1,89 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "***15sec***"
+    {
+        "chi" "还有15秒"
+    }
+
+    "***20sec***"
+    {
+        "chi" "还有20秒"
+    }
+
+    "***25sec***"
+    {
+        "chi" "还有25秒"
+    }
+
+    "***30sec***"
+    {
+        "chi" "还有30秒"
+    }
+
+    "***40sec***"
+    {
+        "chi" "还有40秒"
+    }
+
+    "***45sec***"
+    {
+        "chi" "还有45秒"
+    }
+
+    "***60sec***"
+    {
+        "chi" "还有60秒"
+    }
+
+    "***But the truth still in the Abyes***"
+    {
+        "chi" "真相依旧掩埋在深渊之内"
+    }
+
+    "***Find the s!@#$t (0/3)***"
+    {
+        "chi" "找到...."
+    }
+
+    "***they are watching us...***"
+    {
+        "chi" "依旧在注视着我们..."
+    }
+
+    "***time out***"
+    {
+        "chi" "时间耗尽了"
+    }
+
+    "***You Escaped***"
+    {
+        "chi" "你做到了"
+    }
+
+    "***you find Monitors***"
+    {
+        "chi" "你找到了"
+    }
+
+    "***you stop the nuke***"
+    {
+        "chi" "你阻止了核爆"
+    }
+
+    "Fall"
+    {
+        "chi" "就是现在..."
+    }
+
+}

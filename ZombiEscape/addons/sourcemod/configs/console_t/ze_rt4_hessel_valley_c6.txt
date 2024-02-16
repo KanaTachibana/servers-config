@@ -1,0 +1,109 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "** ex open **"
+    {
+        "chi" "EXTREME 开启"
+    }
+
+    "** you win **"
+    {
+        "chi" "你获得了胜利"
+    }
+
+    "<<< stage 1 >>>"
+    {
+        "chi" "第一关"
+    }
+
+    "<<< stage 2 >>>"
+    {
+        "chi" "第二关"
+    }
+
+    "<<< stage 3 >>>"
+    {
+        "chi" "第三关"
+    }
+
+    "<<< stage 4 >>>"
+    {
+        "chi" "第四关"
+    }
+
+    ">> PLAYER HAS PICKED UP WATER <<"
+    {
+        "chi" "玩家已拾起 >水<"
+    }
+
+    ">>> Player has picked up barrier <<<"
+    {
+        "chi" "玩家已拾起 >屏障<"
+    }
+
+    ">>> Player has picked up Flame <<<"
+    {
+        "chi" "玩家已拾起 >火焰<"
+    }
+
+    ">>> Player has picked up Health <<<"
+    {
+        "chi" "玩家已拾起 >治疗<"
+    }
+
+    ">>> Player has picked up hurricane <<<"
+    {
+        "chi" "玩家已拾起 >飓风<"
+    }
+
+    ">>> Player has picked up ice <<<"
+    {
+        "chi" "玩家已拾起 >冰<"
+    }
+
+    ">>> Player has picked up lightening <<<"
+    {
+        "chi" "玩家已拾起 >雷电<"
+    }
+
+    ">>> Player has picked up Rashomon <<<"
+    {
+        "chi" "玩家已拾起 >罗生门<"
+    }
+
+    ">>> Player has picked up typhoon <<<"
+    {
+        "chi" "玩家已拾起 >台风<"
+    }
+
+    "still 20 secs"
+    {
+        "chi" "还有20秒"
+    }
+
+    "still 30 secs"
+    {
+        "chi" "还有30秒"
+    }
+
+    "still 60 secs"
+    {
+        "chi" "还有60秒"
+    }
+
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置:已关闭摔伤"
+    }
+
+}

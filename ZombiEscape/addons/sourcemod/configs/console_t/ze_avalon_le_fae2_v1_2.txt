@@ -1,0 +1,154 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "**10 seconds remaining**"
+    {
+        "chi" "还剩10秒"
+    }
+
+    "**20 seconds remaining**"
+    {
+        "chi" "还剩20秒"
+    }
+
+    "**25s**"
+    {
+        "chi" "25秒"
+    }
+
+    "**30 seconds remaining**"
+    {
+        "chi" "还剩30秒"
+    }
+
+    "**60 seconds remaining**"
+    {
+        "chi" "还剩60秒"
+    }
+
+    "**Come on, challenger**"
+    {
+        "chi" "来吧,挑战者"
+    }
+
+    "**Defend 15s**"
+    {
+        "chi" "防守15秒"
+    }
+
+    "**Defend 20s**"
+    {
+        "chi" "防守20秒"
+    }
+
+    "**Defend 25s**"
+    {
+        "chi" "防守25秒"
+    }
+
+    "**Defend 30s**"
+    {
+        "chi" "防守30秒"
+    }
+
+    "**Defend**"
+    {
+        "chi" "防守"
+    }
+
+    "**Earth die**"
+    {
+        "chi" "土死亡"
+    }
+
+    "**Fight me, and prove me you deserve the power**"
+    {
+        "chi" "与我战斗,向我证明你的实力"
+    }
+
+    "**Fire Aspect**"
+    {
+        "chi" "火场"
+    }
+
+    "**Fire die**"
+    {
+        "chi" "火死亡"
+    }
+
+    "**Fireball (Get to the while glow)**"
+    {
+        "chi" "火球(快去白光上)"
+    }
+
+    "**Hold here and wait for the rock to break 25s**"
+    {
+        "chi" "守住这里,岩石还有25秒破碎"
+    }
+
+    "**Keep Defend!**"
+    {
+        "chi" "继续防守"
+    }
+
+    "**Left**"
+    {
+        "chi" "左边尸笼"
+    }
+
+    "**MAP BY runa**"
+    {
+        "chi" "地图作者:runa 汉化:风潇潇"
+    }
+
+    "**Middle**"
+    {
+        "chi" "中间尸笼"
+    }
+
+    "**Right**"
+    {
+        "chi" "右边尸笼"
+    }
+
+    "**To be continued...**"
+    {
+        "chi" "未完待续"
+    }
+
+    "**Warm Round**"
+    {
+        "chi" "热身回合"
+    }
+
+    "**Water die**"
+    {
+        "chi" "水死亡"
+    }
+
+    "**Well, you got the right one.**"
+    {
+        "chi" "好吧,你选对了"
+    }
+
+    "**Wind die**"
+    {
+        "chi" "风死亡"
+    }
+
+    "**Your eyes full of desire for power**"
+    {
+        "chi" "你的眼睛充满了对力量的渴望"
+    }
+
+}

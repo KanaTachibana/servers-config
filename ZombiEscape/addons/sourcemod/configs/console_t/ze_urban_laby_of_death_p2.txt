@@ -1,7 +1,7 @@
 "Console_T"
 {
     // Console SayText i18n file generator.
-    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
     // https://github.com/fys-csgo/Server-Configs-Generator
 
     // 可用字段
@@ -222,6 +222,11 @@
     "**TEAM FALL BACK**"
     {
         "chi" "**全员撤退!**"
+    }
+
+    "**Helicopter will leave in 30 seconds**"
+    {
+        "chi" "**直升机还有30秒就要起飞了,动作快点小伙子们!**"
     }
 
 }

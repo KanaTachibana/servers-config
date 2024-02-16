@@ -1,7 +1,7 @@
 "Console_T"
 {
     // Console SayText i18n file generator.
-    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
     // https://github.com/fys-csgo/Server-Configs-Generator
 
     // 可用字段
@@ -13,7 +13,7 @@
 
     "**THE GATES ARE OPENING**"
     {
-        "chi" "__null__"
+        "chi" "大门正在打开"
     }
 
     "(allahu-akbar)"
@@ -53,7 +53,7 @@
 
     "** YOU HAVE FAILED **"
     {
-        "chi" "__null__"
+        "chi" "人类失败"
     }
 
     "***ZODIARK READIES BANISH RAY** GET OUT OF HIM!!!***"
@@ -128,7 +128,7 @@
 
     "**A PLAYER HAS ACQUIRED BERSERK MAGICK**"
     {
-        "chi" "人类获得补给道具"
+        "chi" "人类获得补给道具(抬头按E切换弹药/加速)"
     }
 
     "**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 1)**"
@@ -209,6 +209,7 @@
     "**ADMINS ARE FREE TO SET THE LEVEL THEY PLAYED BEFORE IN THE ADMIN ROOM**"
     {
         "chi" "__null__"
+        "blocked" "1"
     }
 
     "**CACTUAR BLOCKED THE ROAD**SHOOT HIM!**"
@@ -389,11 +390,12 @@
     "**TELEPORTING SOLO WINNER IN THE ADMIN ROOM. NOW HE WILL DECIDE...**"
     {
         "chi" "__null__"
+        "blocked" "1"
     }
 
     "**THANK YOU FOR PLAYING THE MAP**"
     {
-        "chi" "__null__"
+        "chi" "感谢你的游玩"
     }
 
     "**THE AIR SHIP IS LEAVING...**"
@@ -473,7 +475,7 @@
 
     "**THE GATE WILL OPEN IN 20 SECONDS**"
     {
-        "chi" "__null__"
+        "chi" "大门20秒后打开"
     }
 
     "**THE GATES ARE CLOSING**"
@@ -488,7 +490,7 @@
 
     "**THE GATES WILL OPEN IN 20 SECONDS**"
     {
-        "chi" "__null__"
+        "chi" "大门20秒后打开f"
     }
 
     "**THE GATES WILL OPEN IN 25 SECONDS**"
@@ -514,6 +516,7 @@
     "**THE MAP WILL TRY TO FIX THE BUG RESETING THE LEVEL SYSTEM**"
     {
         "chi" "__null__"
+        "blocked" "1"
     }
 
     "**THE MOST POWERFUL ATTACK IS IN 5 SECONDS**"
@@ -534,6 +537,7 @@
     "**THE SOLO WINNER WILL BE THE KING OF THE NEXT ROUND**"
     {
         "chi" "__null__"
+        "blocked" "1"
     }
 
     "**The teleporter to Feywood will be active in 30 seconds**"
@@ -608,7 +612,7 @@
 
     "**THIS ROUND IS ONLY FOR YOU!**"
     {
-        "chi" "__null__"
+        "chi" "世界聚焦于你!!!"
     }
 
     "**TRY TO SURVIVE WITHOUT ANY ITEMS**"
@@ -619,6 +623,7 @@
     "**UNFORTUNATELY THERE IS AN ERROR IN THE LEVEL SYSTEM**"
     {
         "chi" "__null__"
+        "blocked" "1"
     }
 
     "**WARMUP ROUND**"
@@ -644,11 +649,13 @@
     "**WE HAVE A EPIC SOLO WINNER!!!**"
     {
         "chi" "__null__"
+        "blocked" "1"
     }
 
     "**WE HAVE A SOLO WINNER**"
     {
         "chi" "__null__"
+        "blocked" "1"
     }
 
     "**WE HAVE DEFEATED CHAOS**"
@@ -663,7 +670,7 @@
 
     "**WE KILLED HIM. GO TO THE END OF THE ROAD***"
     {
-        "chi" "我们杀了他.走到路的尽头"
+        "chi" "我们杀了他,快离开这里"
     }
 
     "**Welcome to Garland airship**"
@@ -683,7 +690,7 @@
 
     "**YOU HAVE FAILED**"
     {
-        "chi" "__null__"
+        "chi" "人类失败"
     }
 
     "**YOU HAVE KILLED ZODIARK** NOW GET OUT OF HENNES MINES**"
@@ -748,7 +755,7 @@
 
     "**ZOMBIE JAIL OPENED**YOU HAVE FAILED**"
     {
-        "chi" "__null__"
+        "chi" "僵尸出笼,你们打得太慢了!"
     }
 
     "**ZOMBIES HAVE ESCAPED**"
@@ -817,24 +824,19 @@
         "chi" "僵尸获得秒杀(Lv.3)"
     }
 
-    "igger cmd:Command:say **GET TO THE OTHER SIDE OF THE BRIDGE AND DEFEND 30 SECONDS**:25.00:1"
+    "**GET TO THE OTHER SIDE OF THE BRIDGE AND DEFEND 30 SECONDS**"
     {
-        "chi" "__null__"
+        "chi" "到桥的另一边,防守30秒"
     }
 
-    "igger Cmd:Command:say **THE GATES WILL OPEN IN 15 SECONDS**STAY DEFEND!!**:5.00:1"
+    "**THE GATES WILL OPEN IN 15 SECONDS**STAY DEFEND!!**"
     {
-        "chi" "__null__"
+        "chi" "大门将在15秒后打开,保持防守!"
     }
 
-    "igger cmd:Command:say **THE LAST GATES WILL OPEN IN 20 SECONDS**:0.00:1"
+    "**THE LAST GATES WILL OPEN IN 20 SECONDS**"
     {
-        "chi" "__null__"
-    }
-
-    "igger cmd:Command:say **THE TOMB GATES WILL OPEN IN 20 SECONDS**:0.00:1"
-    {
-        "chi" "__null__"
+        "chi" "最后一道闸门将在20秒内打开"
     }
 
 }

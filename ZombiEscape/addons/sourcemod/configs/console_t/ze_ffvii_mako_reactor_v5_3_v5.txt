@@ -1,7 +1,7 @@
 "Console_T"
 {
     // Console SayText i18n file generator.
-    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
     // https://github.com/fys-csgo/Server-Configs-Generator
 
     // 可用字段
@@ -467,6 +467,11 @@
     "**Superior door opening in 30 seconds**"
     {
         "chi" "**中央大门30S后打开**"
+    }
+
+    "** DOOR OPENS IN 35 S **"
+    {
+        "chi" "这扇门35秒后打开"
     }
 
 }
